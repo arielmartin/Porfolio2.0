@@ -18,7 +18,7 @@ title3=>Desarrollador Web</br>(Back-End)
 intro3=>Tengo experiencia en el desarrollo del lado del servidor. Me esfuerzo por conocer y seguir los patrones de diseño para cada día hacer un mejor código limpio y entendible. Tengo conocimientos en Bases de datos SQL y NoSQL.
 
 titleCard1=>Front-End
-textCard1=>Alta experiencia con HTML5, CSS3 y JS. Frameworks de CSS (bootstrap, materialize), diseño UI/UX, responsive design.
+textCard1=>Alta experiencia con HTML5, CSS3 y JS. Frameworks de CSS (bootstrap, materialize), JS (Angular). Diseño UI/UX, responsive design.
 titleCard2=>Back-End
 textCard2=>Lenguajes de Back-end: PHP, Java, .NET(C#), NodeJS. Hospeo y administracion de servidores. Manejo de VSCode y sus Plugins.
 titleCard3=>Bases de Datos

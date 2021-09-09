@@ -18,7 +18,7 @@ title3=>WEB DEVELOPER</BR>(Back-End)
 intro3=>I have experience in server-side development. I strive to know and follow the design patterns  to make a better clean and understandable code every day. I have knowledge of databases SQL  and NoSQL.
 
 titleCard1=>Front-End
-textCard1=>High experience with HTML5, CSS3 and JS. CSS frameworks (bootstrap, materialize), UI/UX design, responsive design.
+textCard1=>High experience with HTML5, CSS3 and JS. CSS frameworks (bootstrap, materialize) JS (Angular). UI/UX design, responsive design.
 titleCard2=>Back-End
 textCard2=>Back-end languages: PHP, Java, .NET (C #), NodeJS. Hosting and administration of servers. Skill with VSCode and its plugins.
 titleCard3=>DataBase Manager
