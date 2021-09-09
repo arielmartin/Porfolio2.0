@@ -1,0 +1,54 @@
+title=>Ariel Martin - Web Developer
+lang=>English
+langh2=>EN
+icono=><img class="icono" id="flag" src="assets/images/en.png">
+
+iam=>I AM
+ican=>I CAN
+ido=>I DO
+you=>YOU CAN
+
+title1=>UNIVERSITY TECHNICIAN</br>IN WEB DEVELOPMENT
+intro1=>Graduated from the Career in Web Development at the National University of La Matanza
+
+title2=>WEB DESIGNER</BR>(Front-End)
+intro2=>I am a design fanatic, I can create intuitive and elegant websites. I have extensive knowledge of HTML, CSS and JS technologies as well as handling of layout and prototyping tools for UI.
+
+title3=>WEB DEVELOPER</BR>(Back-End)
+intro3=>I have experience in server-side development. I strive to know and follow the design patterns  to make a better clean and understandable code every day. I have knowledge of databases SQL  and NoSQL.
+
+titleCard1=>Front-End
+textCard1=>High experience with HTML5, CSS3 and JS. CSS frameworks (bootstrap, materialize), UI/UX design, responsive design.
+titleCard2=>Back-End
+textCard2=>Back-end languages: PHP, Java, .NET (C #), NodeJS. Hosting and administration of servers. Skill with VSCode and its plugins.
+titleCard3=>DataBase Manager
+textCard3=>Database Languages: MySQL - SQL Server. Using PHP my Admin, SQL Manager Studio. NOSQL databases (MongoDB)
+titleCard4=>Version Control
+textCard4=>Use of GIT, GITHUB, GITLAB repositories (branch management, teamwork, conflict resolution, github Pages, etc.)
+titleCard5=>Other knowledge
+textCard5=>OOP, UML, SOLID, REST API, Maven, Spring MVC & Hibernate, agile methodologies (SCRUM). Consepts of Inheritance, Interfaces, Polymorphism.
+titleCard6=>Good practices
+textCard6=>FirstMobile development, Design patterns (MVC, DAO, Singleton, Factory, etc). Concepts of Usability, Accessibility and Testing.
+
+titlepage1=>CREDIVI
+textpage1=>BETA of commercial site developed for third parties, single page design and contact links (WhatsApp, GoogleForm, social networks, etc). Hosted on GitHub Pages.
+titlepage2=>GASTRONOMIA CASANOVA
+textpage2=>RAPPI style site developed in HTML5 CSS3 and JavaScript.</br>Back-End in PHP and MySQL database. It is hosted on the 000webhost server.
+titlepage3=>EVALUATE
+textpage3=>WEB application developed for the THESIS of the web development technician. Back-end technologies PHP and mysql. It is hosted on the 000webhost server.
+titlepage4=>TECNICO INFORMATICO
+textpage4=>Own commercial landing page. Developed from template. Site hosted on GitHub Pages and redirected to my personal domain "arielmartin.tk"
+titlepage5=>CONTROL NUTRICIONAL
+textpage5=>JAVA project developed with MAVEN technology. Implement the Spring MVC and Hibernate frameworks. This APP is not hosted on any server.
+titlepage6=>PROTOTIPO E-COMMERCE
+textpage6=>Responsive E-commerce website prototype. Sample development for client.</br>Applied technologies: HTML5, CSS3 and JavaScript.
+titlepage7=>CRUD PHP-MySql
+textpage7=>Code developed to optimize operations between PHP and MySql receiving ARRAYS data as input and performing the required CRUD operations.
+
+sourse=>Source code
+
+contact=>CONTACT ME!
+name=><input name="name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
+email=><input name="emailAddress" type="email" class="form-control" id="emailAddress" placeholder="Your e-mail..." required="">
+message=><textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+send=>Send Now

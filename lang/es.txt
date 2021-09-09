@@ -1,0 +1,54 @@
+﻿title=>Ariel Martin - Desarrollador Web
+lang=>Español
+langh2=>ES
+icono=><img class="icono" id="flag" src="assets/images/es.png">
+
+iam=>YO SOY
+ican=>YO PUEDO
+ido=>YO HAGO
+you=>TU PUEDES
+
+title1=>TECNICO UNIVERSITARIO</br>EN DESARROLLO WEB
+intro1=>Egresado de la Carrera en Desarrollo Web en la Universidad Nacional de la Matanza
+
+title2=>DISEÑADOR WEB</br>(Front-End)
+intro2=>Soy un fanático del diseño, puedo crear sitios web intuitivos y elegantes. Tengo un amplio conocimiento de las tecnologías HTML, CSS y JS como también en el manejo de herramientas de maquetado y prototipado para UI.
+
+title3=>Desarrollador Web</br>(Back-End)
+intro3=>Tengo experiencia en el desarrollo del lado del servidor. Me esfuerzo por conocer y seguir los patrones de diseño para cada día hacer un mejor código limpio y entendible. Tengo conocimientos en Bases de datos SQL y NoSQL.
+
+titleCard1=>Front-End
+textCard1=>Alta experiencia con HTML5, CSS3 y JS. Frameworks de CSS (bootstrap, materialize), diseño UI/UX, responsive design.
+titleCard2=>Back-End
+textCard2=>Lenguajes de Back-end: PHP, Java, .NET(C#), NodeJS. Hospeo y administracion de servidores. Manejo de VSCode y sus Plugins.
+titleCard3=>Bases de Datos
+textCard3=>Lenguages de Base de Datos: MySQL - SQL Server. Uso de PHP my Admin, SQL Manager Studio. Base de datos NoSQL (MongoDB)
+titleCard4=>Contrrol de Versiones
+textCard4=>Uso de repositorios GIT, GITHUB, GITLAB (manejo de ramas, trabajo en equipo, resolución de conflictos, github Pages, etc.)
+titleCard5=>Otros conocimientos
+textCard5=>POO, UML, SOLID, API REST, Maven, Spring MVC & Hibernate, metodologias ágiles (SCRUM). Conseptos de Herencia, Interfaces, Polimorfismo.
+titleCard6=>Buenas Prácticas
+textCard6=>Desarrollo FirstMobile, Patrones de diseño (MVC, DAO, Singleton, Factory, etc). Conseptos de Usabilidad, Accesibilidad y Testing.
+
+titlepage1=>CREDIVI
+textpage1=>BETA de sitio comercial desarrollado para terceros, diseño de página única y links de contacto (Whatsapp, GoogleForm, redes sociales, etc). Hosteado en GitHub Pages.
+titlepage2=>GASTRONOMIA CASANOVA
+textpage2=>Sitio estilo RAPPI desarrollado en HTML5 CSS3 y JS, Back-End en PHP y base de datos MySQL. Se encuentra alojado en el servidor 000webhost.
+titlepage3=>EVALUATE
+textpage3=>Aplicacion WEB desarrollada para la TESIS de la tecnicatura en desarrollo web. Tecnologias de back-end PHP y mysql. Se encuentra alojado en el servidor 000webhost.
+titlepage4=>TÉCNICO INFORMÁTICO
+textpage4=>Landing Page comercial propia. Desarrollada a partir de plantilla. Alojada en GitHub Pages y redireccionada a mi dominio personal "arielmartin.tk"
+titlepage5=>CONTROL NUTRICIONAL
+textpage5=>Proyecto JAVA desarrollado con la tecnología MAVEN. Implementa los frameworks Spring MVC e Hibernate. Esta APP no está alojada en ningún servidor.
+titlepage6=>PROTOTIPO E-COMMERCE
+textpage6=>Prototipo responsive de página web de comercio electronico. Desarrollo de muestra para cliente.</br>Tecnologías aplicadas: HTML5, CSS3 y JavaScript.
+titlepage7=>CRUD PHP-MySql
+textpage7=>Código desarrollado para optimizar las operaciones entre PHP y MySql recibiendo como entrada de datos ARRAYS y realizando las operaciones de CRUD requeridas.
+
+sourse=>Ver Código Fuente
+
+contact=>CONTACTARME!
+name=><input name="name" type="text" class="form-control" id="name" placeholder="Su nombre..." required="">
+email=><input name="emailAddress" type="email" class="form-control" id="emailAddress" placeholder="Su e-mail..." required="">
+message=><textarea name="message" rows="6" class="form-control" id="message" placeholder="Su mensaje..." required=""></textarea>
+send=>Enviar
