@@ -5,7 +5,7 @@ icono=><img class="icono" id="flag" src="assets/images/en.png">
 
 iam=>I AM
 ican=>I CAN
-ido=>I DO
+ido=>I DID
 you=>YOU CAN
 
 title1=>UNIVERSITY TECHNICIAN</br>IN WEB DEVELOPMENT

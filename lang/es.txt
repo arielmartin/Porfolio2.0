@@ -3,10 +3,10 @@ lang=>Español
 langh2=>ES
 icono=><img class="icono" id="flag" src="assets/images/es.png">
 
-iam=>YO SOY
-ican=>YO PUEDO
-ido=>YO HAGO
-you=>TU PUEDES
+iam=>PERFIL
+ican=>HABILIDADES
+ido=>TRABAJOS
+you=>CONTACTO
 
 title1=>TECNICO UNIVERSITARIO</br>EN DESARROLLO WEB
 intro1=>Egresado de la Carrera en Desarrollo Web en la Universidad Nacional de la Matanza
