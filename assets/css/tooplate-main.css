@@ -950,6 +950,7 @@ nav a::before {
   .content .fourth-content{
     	top: 140%!important;
       transform: translateY(-140%); 
+      transform: translateX(-140%); 
   }
 
   .row{
@@ -962,6 +963,14 @@ nav a::before {
 
   #tel{
     display: none;
+  }
+
+  #form{
+    margin-left: 5%;
+  }
+
+  .contacts{
+    margin-top:1.5em;
   }
 
 }
