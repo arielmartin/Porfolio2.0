@@ -8,6 +8,7 @@ ican=>HABILIDADES
 ido=>TRABAJOS
 you=>CONTACTO
 
+myname=>Ariel Martin
 title1=>TECNICO UNIVERSITARIO</br>EN DESARROLLO WEB
 intro1=>Egresado de la Carrera en Desarrollo Web en la Universidad Nacional de la Matanza
 
@@ -44,6 +45,8 @@ titlepage6=>PROTOTIPO E-COMMERCE
 textpage6=>Prototipo responsive de página web de comercio electronico. Desarrollo de muestra para cliente.</br>Tecnologías aplicadas: HTML5, CSS3 y JavaScript.
 titlepage7=>CRUD PHP-MySql
 textpage7=>Código desarrollado para optimizar las operaciones entre PHP y MySql recibiendo como entrada de datos ARRAYS y realizando las operaciones de CRUD requeridas.
+titlepage8=>THIS WebSite
+textpage8=>Porfolio personal. SPA Horizontal, multilenguaje, responsive . Si quieres ver como esta hecho este sitio, puedes visitar el codigo fuente desde aquí:
 
 sourse=>Ver Código Fuente
 
