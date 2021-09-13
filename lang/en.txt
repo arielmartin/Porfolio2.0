@@ -51,7 +51,7 @@ textpage8=>Personal portfolio. Horizontal SPA, multilanguage, responsive. If you
 sourse=>Source code
 
 contact=>CONTACT ME!
-name=><input name="name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
+name=><input name="entry.1440274532" type="text" class="form-control" id="cname" placeholder="Your name..." required="">
 email=><input name="emailAddress" type="email" class="form-control" id="emailAddress" placeholder="Your e-mail..." required="">
-message=><textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+message=><textarea name="entry.388888529" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
 send=>Send Now
