@@ -645,7 +645,7 @@ nav a::before {
 	transform: translateY(-140%); */
 }
 #contact {
-  height: 65vh;
+  /* height: 65vh; */
   text-align: center;
   margin: 0 auto;
   max-width: 600px;
@@ -983,7 +983,9 @@ nav a::before {
   .contacts{
     margin-top:1.5em;
   }
-
+  #contact {
+    padding: 1px;
+  }
 }
 
 
