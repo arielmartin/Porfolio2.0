@@ -949,6 +949,9 @@ nav a::before {
     font-size: 2vh;
     bottom: 0;
   }
+  .featured-item .down-content{
+    min-height: 17rem;
+  }
 
   .featured-item h4{
     display: block;
@@ -965,7 +968,7 @@ nav a::before {
   }
 
   .row{
-    margin-top: 11vh;
+    margin-top: 5vh;
   }
 
   #linkedin, #github{
