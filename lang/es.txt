@@ -24,7 +24,7 @@ titleCard2=>Back-End
 textCard2=>Lenguajes de Back-end: PHP, Java, .NET(C#), NodeJS. Hospeo y administracion de servidores. Manejo de VSCode y sus Plugins.
 titleCard3=>Bases de Datos
 textCard3=>Lenguages de Base de Datos: MySQL - SQL Server. Uso de PHP my Admin, SQL Manager Studio. Base de datos NoSQL (MongoDB)
-titleCard4=>Contrrol de Versiones
+titleCard4=>Control de Versiones
 textCard4=>Uso de repositorios GIT, GITHUB, GITLAB (manejo de ramas, trabajo en equipo, resolución de conflictos, github Pages, etc.)
 titleCard5=>Otros conocimientos
 textCard5=>POO, UML, SOLID, API REST, Maven, Spring MVC & Hibernate, metodologias ágiles (SCRUM). Conseptos de Herencia, Interfaces, Polimorfismo.
@@ -45,7 +45,7 @@ titlepage6=>PROTOTIPO E-COMMERCE
 textpage6=>Prototipo responsive de página web de comercio electronico. Desarrollo de muestra para cliente.</br>Tecnologías aplicadas: HTML5, CSS3 y JavaScript.
 titlepage7=>CRUD PHP-MySql
 textpage7=>Código desarrollado para optimizar las operaciones entre PHP y MySql recibiendo como entrada de datos ARRAYS y realizando las operaciones de CRUD requeridas.
-titlepage8=>THIS WebSite
+titlepage8=>Este Sitio Web
 textpage8=>Porfolio personal. SPA Horizontal, multilenguaje, responsive . Si quieres ver como esta hecho este sitio, puedes visitar el codigo fuente desde aquí:
 
 sourse=>Ver Código Fuente

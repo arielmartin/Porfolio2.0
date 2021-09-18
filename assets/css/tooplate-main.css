@@ -959,6 +959,8 @@ nav a::before {
 
   .slides .slide .content {
     margin: 0  0 0 max(13%, 160px);
+    top: 90px;
+    font-size: 95%;
   };
 
   .content .fourth-content{
