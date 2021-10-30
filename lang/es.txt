@@ -27,7 +27,7 @@ textCard3=>Lenguages de Base de Datos: MySQL - SQL Server. Uso de PHP my Admin, 
 titleCard4=>Control de Versiones
 textCard4=>Uso de repositorios GIT, GITHUB, GITLAB (manejo de ramas, trabajo en equipo, resolución de conflictos, github Pages, etc.)
 titleCard5=>Otros conocimientos
-textCard5=>POO, UML, SOLID, API REST, Maven, Spring MVC & Hibernate, metodologias ágiles (SCRUM). Conseptos de Herencia, Interfaces, Polimorfismo.
+textCard5=>POO, UML, SOLID, API REST, Maven, Spring MVC & Hibernate, metodologias ágiles (SCRUM). Conceptos de Herencia, Interfaces, Polimorfismo.
 titleCard6=>Buenas Prácticas
 textCard6=>Desarrollo FirstMobile, Patrones de diseño (MVC, DAO, Singleton, Factory, etc). Conseptos de Usabilidad, Accesibilidad y Testing.
 
