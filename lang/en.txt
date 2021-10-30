@@ -27,7 +27,7 @@ textCard3=>Database Languages: MySQL - SQL Server. Using PHP my Admin, SQL Manag
 titleCard4=>Version Control
 textCard4=>Use of GIT, GITHUB, GITLAB repositories (branch management, teamwork, conflict resolution, github Pages, etc.)
 titleCard5=>Other knowledge
-textCard5=>OOP, UML, SOLID, REST API, Maven, Spring MVC & Hibernate, agile methodologies (SCRUM). Consepts of Inheritance, Interfaces, Polymorphism.
+textCard5=>OOP, UML, SOLID, REST API, Maven, Spring MVC & Hibernate, agile methodologies (SCRUM). Concepts of Inheritance, Interfaces, Polymorphism.
 titleCard6=>Good practices
 textCard6=>FirstMobile development, Design patterns (MVC, DAO, Singleton, Factory, etc). Concepts of Usability, Accessibility and Testing.
 
