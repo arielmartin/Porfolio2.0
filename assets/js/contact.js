@@ -3,18 +3,18 @@ var lang = elements.getAttribute('lang');
 
 
 //Formulario de contacto
-var action = "https://docs.google.com/forms/u/1/d/e/1FAIpQLSenEQOKGiv8xJS-Pu7Tj_AetWqLqbSnvtW753eEddcE79ZFFw/formResponse";
-var cname = "entry.1440274532";
-var emailAddress = "emailAddress";
-var message = "entry.388888529";
+// var action = "https://docs.google.com/forms/u/1/d/e/1FAIpQLSenEQOKGiv8xJS-Pu7Tj_AetWqLqbSnvtW753eEddcE79ZFFw/formResponse";
+// var cname = "entry.1440274532";
+// var emailAddress = "emailAddress";
+// var message = "entry.388888529";
 
 
- $(document).ready(function() {
-    $("#contact").attr("action",action);
-    $("#cname").attr("name",cname);
-    $("#emailAddress").attr("name",emailAddress);
-    $("#message").attr("name",message)
- });
+//  $(document).ready(function() {
+//     $("#contact").attr("action",action);
+//     $("#cname").attr("name",cname);
+//     $("#emailAddress").attr("name",emailAddress);
+//     $("#message").attr("name",message)
+//  });
 
 
 //links a redes
