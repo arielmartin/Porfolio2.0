@@ -18,7 +18,7 @@ var message = "entry.388888529";
 
 
 //links a redes
-var whatsapp = "https://api.whatsapp.com/send?phone=5491157673825&text=Ud se está contactando con Ariel Martin, Desarrollador Web. \"https://arielmartin.ml\"";
+var whatsapp = "https://api.whatsapp.com/send?phone=5491157673825&text=Ud se está contactando con Ariel Martin, Desarrollador Web. https://www.arielmartin.ml";
 var mailto = "mailto:arielmartin80@gmail.com";
 var github = "https://github.com/arielmartin80/";
 var gitlab = "https://gitlab.com/arielmartin80/";
