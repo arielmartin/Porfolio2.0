@@ -9,12 +9,12 @@ var emailAddress = "emailAddress";
 var message = "entry.388888529";
 
 
-$(document).ready(function() {
-   $("#contact").attr("action",action);
-   $("#cname").attr("name",cname);
-   $("#emailAddress").attr("name",emailAddress);
-   $("#message").attr("name",message)
-});
+// $(document).ready(function() {
+//    $("#contact").attr("action",action);
+//    $("#cname").attr("name",cname);
+//    $("#emailAddress").attr("name",emailAddress);
+//    $("#message").attr("name",message)
+// });
 
 
 //links a redes
