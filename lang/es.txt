@@ -50,7 +50,7 @@ textpage8=>Porfolio personal. SPA Horizontal, multilenguaje, responsive . Si qui
 
 sourse=>Ver Código Fuente
 
-contact=>CONTACTARME!
+contact=>Contactame
 name=><input name="entry.1440274532" type="text" class="form-control" id="cname" placeholder="Su nombre..." required="">
 email=><input name="emailAddress" type="email" class="form-control" id="emailAddress" placeholder="Su e-mail..." required="">
 message=><textarea name="entry.388888529" rows="6" class="form-control" id="message" placeholder="Su mensaje..." required=""></textarea>
