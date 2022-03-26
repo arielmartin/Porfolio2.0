@@ -47,6 +47,8 @@ titlepage7=>CRUD PHP-MySql
 textpage7=>Código desarrollado para optimizar las operaciones entre PHP y MySql recibiendo como entrada de datos ARRAYS y realizando las operaciones de CRUD requeridas.
 titlepage8=>Este Sitio Web
 textpage8=>Porfolio personal. SPA Horizontal, multilenguaje, responsive . Si quieres ver como esta hecho este sitio, puedes visitar el codigo fuente desde aquí:
+titlepage9=>API REST con SQLite
+textpage9=>Esta API REST esta realizada con las tecnologias NODE.JS y EXPRESS, usando los Modulos babel para desarrollar usando js moderno y se utilizó el ORM sequelize para conectar a una BD SQLite
 
 sourse=>Ver Código Fuente
 

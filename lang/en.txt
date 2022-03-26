@@ -47,6 +47,9 @@ titlepage7=>CRUD PHP-MySql
 textpage7=>Code developed to optimize operations between PHP and MySql receiving ARRAYS data as input and performing the required CRUD operations.
 titlepage8=>THIS WebSite
 textpage8=>Personal portfolio. Horizontal SPA, multilanguage, responsive. If you want to see how this site is made, you can visit the source code from here:
+titlepage9=>REST API with SQLite
+textpage9=>This REST API is made with the NODE.JS and EXPRESS technologies, using the Babel Modules to develop using modern js and the sequelize ORM was used to connect to a SQLite DB
+
 
 sourse=>Source code
 
