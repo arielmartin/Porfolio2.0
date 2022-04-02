@@ -31,6 +31,8 @@ textCard5=>POO, UML, SOLID, API REST, Maven, Spring MVC & Hibernate, metodologia
 titleCard6=>Buenas Prácticas
 textCard6=>Desarrollo FirstMobile, Patrones de diseño (MVC, DAO, Singleton, Factory, etc). Conseptos de Usabilidad, Accesibilidad y Testing.
 
+titlepage0=>App de Notas
+textpage0=>Aplicasión Web desarrollada con Node.js,  Express y BD mongoDB. Se conecta con MongoDB Atlas y se encuentra hosteada en la plataforma Heroku.
 titlepage1=>CREDIVI
 textpage1=>BETA de sitio comercial desarrollado para terceros, diseño de página única y links de contacto (Whatsapp, GoogleForm, redes sociales, etc). Hosteado en GitHub Pages.
 titlepage2=>GASTRONOMIA CASANOVA

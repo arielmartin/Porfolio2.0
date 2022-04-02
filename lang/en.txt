@@ -31,6 +31,8 @@ textCard5=>OOP, UML, SOLID, REST API, Maven, Spring MVC & Hibernate, agile metho
 titleCard6=>Good practices
 textCard6=>FirstMobile development, Design patterns (MVC, DAO, Singleton, Factory, etc). Concepts of Usability, Accessibility and Testing.
 
+titlepage0=>Note App
+textpage0=>Web application developed with Node.js, Express and BD mongoDB. It connects with MongoDB Atlas and is hosted on the Heroku platform.
 titlepage1=>CREDIVI
 textpage1=>BETA of commercial site developed for third parties, single page design and contact links (WhatsApp, GoogleForm, social networks, etc). Hosted on GitHub Pages.
 titlepage2=>GASTRONOMIA CASANOVA
