@@ -33,6 +33,8 @@ textCard6=>FirstMobile development, Design patterns (MVC, DAO, Singleton, Factor
 
 titlepage0=>Note App
 textpage0=>Web application developed with Node.js, Express and BD mongoDB. It connects with MongoDB Atlas and is hosted on the Heroku platform.
+titlepage01=>API Swagger LowDB
+textpage01=>Node.JS/Express API built with TypeScripts, documented with Swagger, and uses LowDB as storage. It is hosted on Replit.com
 titlepage1=>CREDIVI
 textpage1=>BETA of commercial site developed for third parties, single page design and contact links (WhatsApp, GoogleForm, social networks, etc). Hosted on GitHub Pages.
 titlepage2=>GASTRONOMIA CASANOVA
