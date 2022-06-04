@@ -1,5 +1,5 @@
 var elements = document.getElementById('test');
-var lang = elements.getAttribute('lang');
+//var lang = elements.getAttribute('lang');
 
 
 //Formulario de contacto
@@ -9,12 +9,12 @@ var emailAddress = "emailAddress";
 var message = "entry.388888529";
 
 
- $(document).ready(function() {
-    $("#contact").attr("action",action);
-    $("#cname").attr("name",cname);
-    $("#emailAddress").attr("name",emailAddress);
-    $("#message").attr("name",message)
- });
+$(document).ready(function() {
+    $("#contact").attr("action", action);
+    $("#cname").attr("name", cname);
+    $("#emailAddress").attr("name", emailAddress);
+    $("#message").attr("name", message)
+});
 
 
 //links a redes
@@ -23,7 +23,7 @@ var mailto = "mailto:arielmartin80@gmail.com";
 var github = "https://github.com/arielmartin80/";
 var gitlab = "https://gitlab.com/arielmartin80/";
 var linkedin = "https://www.linkedin.com/in/ariel-martin-705a3461";
-var tel ="tel:+5491157673825";
+var tel = "tel:+5491157673825";
 
 $(document).ready(function() {
     $(".linkedin").attr("href", linkedin);
@@ -32,7 +32,4 @@ $(document).ready(function() {
     $(".whatsapp").attr("href", whatsapp);
     $(".mailto").attr("href", mailto)
     $(".tel").attr("href", tel);
- });
- 
-
- 
+});
